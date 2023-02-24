@@ -8,7 +8,7 @@ const {
     deleteUser,
     addFriend,
     deleteFriend
-  } = require('../../controllers/user-controller');
+  } = require('../../controllers/thought-controller');
 
 // Set up GET all and POST at /api/users
 router
